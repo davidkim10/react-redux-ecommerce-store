@@ -1,10 +1,10 @@
-import React from "react";
-import "./button.styles.scss";
+import React from 'react';
+import './button.styles.scss';
 
 const Button = ({ children, className, ...props }) => {
   return (
     <button
-      className={className ? `${className} custom-button` : "custom-button"}
+      className={`custom-button ${className ? className : ''}`}
       {...props}
     >
       {children}
