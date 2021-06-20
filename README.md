@@ -1,4 +1,4 @@
-## Ecommerce Project with React and Redux
+# Ecommerce Project with React and Redux
 
 E-commerce project that utilizes many technologies including, but not limited to: Firebase for user authentication, Redux for state management and ReactJS for a web front-end.
 
