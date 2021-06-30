@@ -9,7 +9,7 @@ import { auth, createUserProfileDocument } from './firebase/firebase.utils';
 import { selectCurrentUser } from './redux/user/user.selector';
 import { setCurrentUser } from './redux/user/user.actions';
 
-import HomePage from './pages/homepage/homepage.component';
+import HomePage from './pages/HomePage/HomePage';
 import ShopPage from './pages/shop/shop.component';
 import SignInAndSignUpPage from './pages/sign-in-and-sign-up/sign-in-and-sign-up.component';
 import CheckoutPage from './pages/Checkout/Checkout';
