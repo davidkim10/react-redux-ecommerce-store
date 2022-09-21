@@ -8,7 +8,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: 'AIzaSyBcUZrn-h-t8Zq4jNu51J2ZTOu2t7hyhjQ',
+  apiKey: 'AIzaSyBcUZrn-h-t8Zq4jNu51J2ZTOu2t7hyhjQ', // Demo key no longer valid :)
   authDomain: 'crown-clothing-cba8b.firebaseapp.com',
   projectId: 'crown-clothing-cba8b',
   storageBucket: 'crown-clothing-cba8b.appspot.com',
